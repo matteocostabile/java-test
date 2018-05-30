@@ -10,6 +10,6 @@ public class EsempioDiInput {
      //chiude lo scanner dopo l'uso
      scan.close();
      //mostra il numero a video
-     System.out.println("il numero inserito è: "+num);
+     System.out.println("il numero inserito e': "+num);
    }
 }
